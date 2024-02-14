@@ -6,3 +6,6 @@ Hello, I am sharing upload image using postman or UI technologies.
 ![post-1](https://github.com/JavaDevKKT/image-upload-spring-boot-app/assets/147974177/6f13a4e4-c8c2-4572-a736-fd8510b18942)
 
 ![potms](https://github.com/JavaDevKKT/image-upload-spring-boot-app/assets/147974177/e861a3c2-f2c7-4d26-a2ed-51d47cac5a0b)
+
+
+![db](https://github.com/JavaDevKKT/image-upload-spring-boot-app/assets/147974177/f88a612c-50eb-49d2-a785-2896f92da54e)
